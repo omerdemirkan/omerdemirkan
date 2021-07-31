@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Hi There! I’m Omer
+## Software Engineer Intern at CarpeMed, Typescript enthusiast, and third-year Computer Science major at UCLA.
+### I build scalable progressive web and mobile applications, from intuitive user interfaces to API design and data modelling.
 
 <!--
 **omerdemirkan/omerdemirkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
