@@ -1,5 +1,5 @@
 # 👋 Hi There! I’m Omer
-## Software Engineer Intern at CarpeMed, Typescript enthusiast, and third-year Computer Science major at UCLA.
+## Typescript enthusiast, web accessibility advocate, and third-year Computer Science major at UCLA.
 ### I build scalable progressive web and mobile applications, from intuitive user interfaces to API design and data modelling.
 
 <!--
