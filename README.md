@@ -1,5 +1,5 @@
 # 👋 Hi There! I’m Omer
-## Typescript enthusiast, web accessibility advocate, and third-year Computer Science major at UCLA.
+## Typescript enthusiast, third-year Computer Science major at UCLA, and incoming Software Engineer Intern at Robinhood.
 ### I build scalable progressive web and mobile applications, from intuitive user interfaces to API design and data modelling.
 
 <!--
